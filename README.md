@@ -4,3 +4,4 @@ Now, I'm write commit on GitHub repo
 
 Commit in local branch
 Change to commit 1
+Delete branches
